@@ -1,0 +1,128 @@
+*body{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+header {
+   display: flex;
+padding: 10px 20px;
+justify-content: space-between;
+align-items: center;
+align-content: space-between;
+background: #575757;
+}
+
+
+#logo {
+ margin: 10px;
+  width: 80%
+  
+}
+#images{
+  margin : 10px;
+}
+
+ul{
+ display: flex;
+width: 640px;
+justify-content: flex-end;
+align-items: center;
+gap: 20px;
+flex-shrink: 0;
+color: #FFF;
+
+font-family: Futura;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px; 
+}  
+nav ul{
+  list-style: none;
+}
+#div.logo{
+  display: flex;
+  align-items: center;
+
+}
+main{
+    position: relative;
+    background: #000;
+}
+#about{
+ display: flex;
+ align-items: center;
+}
+#crass1{ 
+  border: 3px solid #000;
+    border-radius: 50%;
+    width:  180px;
+    height: 180px;
+}
+h3{
+  font-size: 50px;
+  text-align: center
+}
+h4{
+  font-size: 30px;
+  text-align: center
+
+}
+h1{
+  font-size: 50px;
+   display: flex;
+  justify-content: center;
+   align-items: center;
+  color: #fff
+}
+h2{
+  
+  padding: 60px 300px;
+  color: #FFF;
+text-align: center;
+font-family: Futura;
+font-size: 48px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+
+}
+#main_visual {
+    height: 600px;
+    position: relative;
+     background: #464646;
+}
+#work {
+    position: relative;
+     background: #000000;
+
+}
+
+#contact{
+   height: 300px;
+    position: relative;
+     background: #575757;
+}
+footer {
+  height: 80px;
+    position: relative;
+     background: #000000;
+}
+#name{
+  color: #fff
+}
+#crass2{ display: flex;
+  align-items: center;
+
+
+}
+h5{
+padding: 15px 150px;
+text-align: center;
+font-size: 48px;
+}
+#connect{
+  font-size: 20px;
+text-align: center;
+  
+}
